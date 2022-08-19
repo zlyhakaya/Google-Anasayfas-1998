@@ -1,0 +1,54 @@
+
+.bg-color-search{
+    background-color: #eeeeee;
+   border-right-width:10rem;
+  
+  
+    
+    }
+
+.bg-box1{
+    background-color: #7ee5da;
+    width: 37%;
+    height: 65px;
+    float: left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-left: 2px;
+    font-size: large;
+}
+.bg-box2{
+    background-color: #70CCC2;
+    width: 20%;
+    height: 65px;
+    float: left;
+    padding: 10px;
+    margin-top:2px;
+    margin-left: 2px;
+    font-size: medium;
+ 
+}
+.bg-box3{
+    background-color: #62B3AA;
+    width: 37%;
+    height: 65px;
+    float: left;
+    padding: 10px;
+    margin-top:2px;
+    margin-left: 2px;
+   font-size: small;
+}
+.card{
+    background-color: #ffffff;
+    
+}
+.footer{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    font-size: small;
+    
+
+}
+
+
+
